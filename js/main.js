@@ -1,12 +1,11 @@
 class Card {
   constructor() {
     this.cards = [
-      {id: 1, name: 'Lebron James', stat: [90, 80, 92, 89]},
-      {id: 2, name: 'Stephen Curry', stat: [85, 97, 93, 75]},
-      {id: 3, name: 'Kebin Durant', stat: [85, 97, 93, 75]},
-      {id: 4, name: 'Damian Lillard', stat: [85, 97, 93, 75]},
-      {id: 5, name: 'James Harden', stat: [85, 97, 93, 75]},
-      {id: 5, name: 'James Harden', stat: [85, 97, 93, 75]}
+      {id: 1, name: 'Lebron James', stars: 5, stat: [90, 80, 92, 89]},
+      {id: 2, name: 'Stephen Curry', stars: 5, stat: [85, 97, 93, 75]},
+      {id: 3, name: 'Kebin Durant', stars: 5, stat: [85, 97, 93, 75]},
+      {id: 4, name: 'Damian Lillard', stars: 5, stat: [85, 97, 93, 75]},
+      {id: 5, name: 'James Harden', stars: 5, stat: [85, 97, 93, 75]},  
     ]
   }
 
