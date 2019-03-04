@@ -5,6 +5,7 @@ class Card {
       {id: 2, name: 'Stephen Curry', stat: [85, 97, 93, 75]},
       {id: 3, name: 'Kebin Durant', stat: [85, 97, 93, 75]},
       {id: 4, name: 'Damian Lillard', stat: [85, 97, 93, 75]},
+      {id: 5, name: 'James Harden', stat: [85, 97, 93, 75]},
       {id: 5, name: 'James Harden', stat: [85, 97, 93, 75]}
     ]
   }
